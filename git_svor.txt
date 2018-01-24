@@ -27,4 +27,8 @@ Git Spurningar og svör
 
 	5.	Hverjir eru helstu kostir við að nota GIT? =  getur unnið án netsambands, getur unnið með öðrum að gera verkefni, version control í git er mjög gott.
 
+	6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? =átt að gera commit við hverja einustu spurningu eða verkefni.
+
+	
+
 
