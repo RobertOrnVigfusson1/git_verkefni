@@ -21,3 +21,7 @@ Git Spurningar og svör
 	a) git diff = til að sjá hvað þú ert búinn að gera en sýnir ekki hvað þú ert búinn að stage-a
 	b) git diff --staged = sýnir hvað þú ert búinn að stage-a
 	c) git diff commit1 commit2 = sýnir hversu öðruvísi þau eru
+
+	4. 	Hvað er útgáfustýring (e.version control)? = útgáfustýring gerir það að tölvan þín update-ar alltaf í nýjasta stýrikerfið.
+
+	
