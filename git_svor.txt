@@ -24,4 +24,7 @@ Git Spurningar og svör
 
 	4. 	Hvað er útgáfustýring (e.version control)? = útgáfustýring gerir það að tölvan þín update-ar alltaf í nýjasta stýrikerfið.
 
-	
+
+	5.	Hverjir eru helstu kostir við að nota GIT? =  getur unnið án netsambands, getur unnið með öðrum að gera verkefni, version control í git er mjög gott.
+
+
