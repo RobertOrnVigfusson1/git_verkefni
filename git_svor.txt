@@ -1,1 +1,8 @@
 Git Spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd = færir þig milli mappa, breytir skrám
+	cd ~ = skilar þér beint á heimasvæðið
+	ls = sýnir lista af skrám/file-um/möppum
+	pwd = prentar út hvar þú ert
+	mkdir = býr til skrá
