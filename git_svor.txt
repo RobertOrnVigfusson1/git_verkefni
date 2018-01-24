@@ -37,5 +37,5 @@ Git Spurningar og svör
 
 	9.	Hver fann upp GIT? = Linus Torvalds
 
-	10.	Hvar er GIT helst notað?
+	10.	Hvar er GIT helst notað? = skóla og vinnu
 
