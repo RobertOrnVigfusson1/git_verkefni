@@ -6,3 +6,12 @@ Git Spurningar og svör
 	ls = sýnir lista af skrám/file-um/möppum
 	pwd = prentar út hvar þú ert
 	mkdir = býr til skrá
+
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone = býr til copy af miðuðu geymslu
+	git log = sýnir hvenær þú komst inná eða gerðir einhvað
+	git status = sýnir stöðu vinnuskrár og svæðisbundin svæði
+	git diff = skoðar öll samruna
+	git checkout = skiptir um allskonar mið
