@@ -15,3 +15,9 @@ Git Spurningar og svör
 	git status = sýnir stöðu vinnuskrár og svæðisbundin svæði
 	git diff = skoðar öll samruna
 	git checkout = skiptir um allskonar mið
+
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff = til að sjá hvað þú ert búinn að gera en sýnir ekki hvað þú ert búinn að stage-a
+	b) git diff --staged = sýnir hvað þú ert búinn að stage-a
+	c) git diff commit1 commit2 = sýnir hversu öðruvísi þau eru
